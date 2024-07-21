@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ttuws/Test11/main/Protected_3781442022837308.txt"))()
+
+game.Players.LocalPlayer:Kick("#404#.HungTuHub.For.Update.Gui.CommingSoon.We are currently creating a new version with an opening date of July 22, 2024")
